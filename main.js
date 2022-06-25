@@ -33,7 +33,7 @@ $(document).ready(function(){
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: [ "Informatique Pour les Sciences", "Université Montpellier", "France"],
+        strings: [ "CAPGEMINI", "ENGINEERING", "France"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
