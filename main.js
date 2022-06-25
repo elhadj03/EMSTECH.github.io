@@ -40,7 +40,7 @@ $(document).ready(function(){
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["ELI LILLY", "FRANCE"],
+        strings: ["ELI LILLY & CO", "FRANCE"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
